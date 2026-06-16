@@ -6,7 +6,7 @@ I’m transitioning into cybersecurity after building a career in leadership, op
 
 ## Why Cybersecurity?
 
-The puzzle aspect is what hooked me. CTFs feel like solving a mystery—there’s a flag hidden somewhere, and success comes from thinking creatively, asking questions, and approaching problems from different angles. I enjoy the process of understanding how systems work just as much as finding the solution.
+The puzzle aspect is what hooked me. CTFs feel like solving a mystery, there’s a flag hidden somewhere, and success comes from thinking creatively, asking questions, and approaching problems from different angles. I enjoy the process of understanding how systems work just as much as finding the solution.
 
 ## Current Goals
 
